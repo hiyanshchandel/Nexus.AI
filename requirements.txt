@@ -1,0 +1,6 @@
+pdfplumber
+qdrant-client[fastembed]>=1.14.1
+dotenv
+openai
+langchain
+tiktoken
